@@ -27,7 +27,7 @@ You can clone it and play a little bit with code as following:
 4. You can execute test as well.
 	```
 	python test_brain_cryptography.py
-	``
+	```
 	You should get:
 	> Ran 6 tests in _. OK.
 
