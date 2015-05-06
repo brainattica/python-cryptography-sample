@@ -1,6 +1,6 @@
 # Brainattica & Cryptography. The Python library Sample.
 
-This repo make reference to a post in our blog [http://www.brainattica.com/blog]
+This repo make reference to a post in our blog [http://blog.brainattica.com/rsa-with-cryptography-python-library/]
 
 ## Usage
 You can clone it and play a little bit with code as following:
